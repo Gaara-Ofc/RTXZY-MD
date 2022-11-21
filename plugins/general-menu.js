@@ -1,6 +1,5 @@
 /** Menu Untuk Whatsapp List Ringan 
  Udah gua buat biar ringan cuma gak manggil semua menu
-
 Note:
 Ini ada menu payment tujuan nya biar kalo lu run panel atau 
 Run di platform yang kecil disk nya ( penyimpanan )
@@ -13,8 +12,8 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     let uptime = clockString(_uptime)
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     let ar = ['list', 'menu']
-    let title = `*GaaraOfc*`
-    let tmb = `CLICK HERE âŽ™`
+    let title = `*© GAARAOFC*`
+    let tmb = `CLICK HERE ⎙`
     const sections = [ {
 	title: `Aktif Selama ${uptime} || Waktu ${time} WIB`,
 	rows: [
@@ -34,7 +33,7 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
 const listMessage = {
   text: title,
   mentions: [m.sender],
-  footer: 'ðŸ“® *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
+  footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
   buttonText: tmb,
   sections
 }
