@@ -4,13 +4,9 @@ let krtu = `Kartu Intro`
 m.reply(`
 ╭─── *「 Kartu Intro 」*
 │       
-│ *Nama     :* 
-│ *Gender   :* 
-│ *Umur      :* 
-│ *Hobby    :* 
-│ *Kelas      :* 
-│ *Asal         :* 
-│ *Agama    :* 
+│ *Nama     :*  
+│ *Umur      :*   
+│ *Askot         :*  
 │ *Status     :* 
 ╰──────────────
 `.trim()) 

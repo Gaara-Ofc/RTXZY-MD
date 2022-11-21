@@ -1,6 +1,6 @@
 const { jadwalsholat } = require('@bochilteam/scraper')
 let handler = async (m, { text, usedPrefix, command }) => {
-    if (!text) throw `Use example ${usedPrefix}${command} semarang`
+    if (!text) throw `Use example ${usedPrefix}${command} wonosobo`
     const res = await jadwalsholat(text)
     m.reply(`
 Jadwal Sholat *${text}*
