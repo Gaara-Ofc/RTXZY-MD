@@ -10,31 +10,31 @@
 //Link Plugins (https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/plugins/info-creator.js)
 
 //Global Owner//
-global.owner = ['6281395861695']  // isi jika perlu
-global.mods = ['6281395861695']   // isi jika perlu
-global.prems = ['6281395861695']  // isi jika perlu
+global.owner = ['201507384088']  // isi jika perlu
+global.mods = ['201507384088']   // isi jika perlu
+global.prems = ['6281326024103']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'TioXd' // isi nama kalian bebas
-global.numberowner = '6281395861695' // isi ini untuk mengendalikan bot, untuk mengubah tampilan owner ada di plugins 
-global.dana = '6281395861695' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6281395861695' // isi dengan nomor pulsa hp kalian
-global.gopay = '6281395861695'
+global.nameowner = 'Gaara Setyawan' // isi nama kalian bebas
+global.numberowner = '201507384088' // isi ini untuk mengendalikan bot, untuk mengubah tampilan owner ada di plugins 
+global.dana = '081326024103' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '081326024103' // isi dengan nomor pulsa hp kalian
+global.gopay = '081326024103'
 
 //Nama Bot & Grouplink//
-global.namebot = 'RTXZY-MD'
-global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
-global.web = 'https://github.com/BOTCAHX' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.instagram = 'https://instagram.com/prm2.0'
+global.namebot = '𝐒𝐇𝐄𝐈𝐋𝐀𝐁𝐎𝐓-𝐌𝐃'
+global.gc = 'https://chat.whatsapp.com/F2tqNFaoyU9Aof9YnGxJeG'
+global.web = 'https://github.com/gaara-ofc' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = 'https://instagram.com/gaara_xploite'
 
 //Tampilan wm Bot dan pesan bot//
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '𝐒𝐇𝐄𝐈𝐋𝐀𝐁𝐎𝐓'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
-global.wm4 = '© 2021/2022'
+global.wm2 = '⫹⫺ 𝐒𝐇𝐄𝐈𝐋𝐀𝐁𝐎𝐓-𝐌𝐃'
+global.wm3 = '© 𝐒𝐇𝐄𝐈𝐋𝐀'
+global.wm4 = '© 2022/2023'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -42,7 +42,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nSheila-MD'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
@@ -75,7 +75,7 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
-  'https://api.neoxr.my.id': 'Register',
+  'https://api.neoxr.my.id': 'x0iLud',
   'https://sekha.me': 'apirey',
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
