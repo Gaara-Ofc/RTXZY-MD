@@ -13,8 +13,8 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     let uptime = clockString(_uptime)
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     let ar = ['list', 'menu']
-    let title = `*©?a.me/???��???*`
-    let tmb = `CLICK HERE ⎙`
+    let title = `*GaaraOfc*`
+    let tmb = `CLICK HERE âŽ™`
     const sections = [ {
 	title: `Aktif Selama ${uptime} || Waktu ${time} WIB`,
 	rows: [
@@ -34,7 +34,7 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
 const listMessage = {
   text: title,
   mentions: [m.sender],
-  footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
+  footer: 'ðŸ“® *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
   buttonText: tmb,
   sections
 }
